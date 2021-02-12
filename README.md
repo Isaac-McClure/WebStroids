@@ -1,2 +1,4 @@
 # WebStroids
-Web browser astroids
+Web browser asteroids
+
+A basic Asteroids game.

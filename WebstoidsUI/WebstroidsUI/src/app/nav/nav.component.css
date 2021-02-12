@@ -1,0 +1,21 @@
+#navbar {
+  background-color: #515151;
+  border-color: #52FF00;
+  color: #52FF00;
+  min-height: 50px;
+  max-height:200px;
+  height: 10%;
+}
+
+#title {
+  text-align: center;
+}
+
+img {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+  color: #52FF00;
+}
+
